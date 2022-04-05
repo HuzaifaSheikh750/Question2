@@ -1,0 +1,93 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(199, 206, 206);
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+table{
+    margin: 10px;
+}
+.container{
+    padding-top: 20px;
+}
+.head1{
+    font-size: 65px;
+}
+.price{
+    font-size: 25px;
+    font-weight: bold;
+}
+.red{
+    color: rgb(131, 27, 27);
+}
+
+
+
+
+
+
+
+/* .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 120px;
+}
+
+.login {
+  background-color: white;
+  width: 310px;
+  height: 330px;
+  padding-left: 50px;
+  padding-top: 30px;
+  box-shadow: 10px 13px #bbb9b9;
+
+}
+
+.logheading{
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: white;
+
+}
+.pop{
+    padding: 10px;
+    margin-top: 20px;
+    height: 18px;
+    width: 240px;
+    background-color: rgb(255, 214, 221);
+}
+
+.con2{
+    background-color: white;
+}
+
+.textdiv{
+    margin-top: 20px;
+    background-color: white;
+}
+.text{
+    padding: 7px;
+    width: 240px;
+    background-color: white;
+    border-width: 1px;
+    border-color: grey;
+}
+
+.logend{
+    background-color: rgb(241, 112, 112);
+    width: 250px;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+    color: white;
+}
+.user{
+    background-color: white;
+    margin-top: 5px;
+} */
+
+
+
